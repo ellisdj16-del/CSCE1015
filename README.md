@@ -4,3 +4,5 @@ Assignment repository for UNT CSCE1015
 de0201
 ## Favorite Linux Command
 ls -la
+## Favorite Linux Command
+ls -la
